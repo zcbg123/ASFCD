@@ -1,4 +1,4 @@
-# ActPML:https://github.com/zcbg123/ASFCD.git
+# https://github.com/zcbg123/ASFCD.git
 ### Requirement  
 ```bash
 -Pytorch 1.8.0+  
